@@ -1,0 +1,15 @@
+# birth_year= input("Enter you birth year")
+# age= 2024- int(birth_year)
+# print(age)
+
+a= int(input("Enter first number"))
+b= int(input("Enter second number"))
+c=(a+b)
+d=(a-b)
+e=(a*b)
+f=(a/b)
+print("Sum of two numbers are:"+ str(c))
+print("Subtraction of two numbers are:" +str(d))
+print("Multiplication of two numbers are:" +str(e))
+print("Division of two numbers are:" +str(f))
+

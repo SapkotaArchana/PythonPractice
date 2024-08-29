@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+# print(f"The result of the integer division {a}//{b} = {int(a//b)}")
+# print(f"The result of the float division is {a}/{b} = {float(a/b)}")
+print(int(a//b))
+print(float(a/b))
